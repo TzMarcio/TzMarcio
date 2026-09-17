@@ -1,69 +1,64 @@
 <p align="center">
-  <img src="./assets/software-banner.svg" alt="Márcio Lima — Engenheiro de Software. APIs, sistemas corporativos, web e mobile." width="100%" />
+  <img src="./assets/architecture-flow.gif" alt="Márcio Lima, engenheiro de software full stack. Animação ilustrativa: uma interface Angular envia uma solicitação para uma API Java/Quarkus, que valida o contrato, aplica regras de negócio, integra sistemas e devolve a resposta à interface." width="100%" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcio-lima-araujo/">LinkedIn</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/TzMarcio?tab=repositories">Código público</a>
+  &nbsp; · &nbsp;
+  <a href="./assets/architecture-flow-static.png">Ver imagem sem animação</a>
 </p>
 
 ## Engenharia de software para sistemas que precisam evoluir
 
-Sou **Márcio Lima Araujo**, **engenheiro de software com mais de seis anos de experiência** em aplicações web, mobile e backend. Minha atuação principal está em **Java, Spring Boot e Quarkus**, APIs REST, microsserviços e integração entre sistemas.
+Sou **Márcio Lima Araujo**, engenheiro de software com **mais de seis anos de experiência**. Trabalho principalmente com **Java, Spring Boot e Quarkus**, desenvolvendo APIs, microsserviços e integrações. Minha experiência full stack também inclui **Angular, TypeScript, Node.js e aplicações mobile com Ionic**.
 
-Tenho experiência full stack com **Angular, TypeScript e Node.js**, além de desenvolvimento mobile com **Ionic**. Trabalho no desenvolvimento e na manutenção de sistemas corporativos, combinando regras de negócio, qualidade de código e atenção ao comportamento das aplicações em produção.
+Grande parte da minha atuação está em **sistemas corporativos e repositórios privados**. Aqui compartilho minha trajetória, minhas competências e algumas experiências pessoais.
 
-**A maior parte do meu trabalho está em projetos de empresas e repositórios privados.** Este perfil reúne minha trajetória, as competências que aplico nesses contextos e as frentes que venho desenvolvendo.
+### Onde concentro minha atuação
 
-## Experiência profissional
+- **Conectar sistemas:** contratos de API, regras de negócio e integrações com ERPs e serviços externos.
+- **Evoluir aplicações:** manutenção, modernização de legados e organização de código por domínio e responsabilidade.
+- **Entregar com qualidade:** testes automatizados, revisão de código, CI/CD e investigação de problemas em produção.
 
-### DB Server · Engenheiro de Software
-**Junho de 2025 — atual**
+### Tecnologias que fazem parte do meu trabalho
 
-- Desenvolvimento e evolução de microsserviços com Java, Spring Boot e Quarkus, com foco em escalabilidade, resiliência e performance.
-- Implementação de APIs REST e integrações entre sistemas distribuídos.
-- Análise de requisitos e definição de soluções com produto, QA e design, aplicando testes automatizados, CI/CD e Clean Code.
-
-### ITSS Tecnologia · Engenheiro de Software
-**Janeiro de 2020 — junho de 2025**
-
-- Desenvolvimento e manutenção de aplicações full stack com Angular e TypeScript, Java/Spring Boot e Node.js.
-- Integrações com ERPs e serviços externos, revisão de código e evolução das aplicações.
-- Investigação de incidentes em produção, análise de falhas e logs, correções e otimizações de performance.
-
-Minha trajetória começou na **ITSS, em setembro de 2019**, como estagiário de desenvolvimento, trabalhando com aplicações desktop, web e mobile.
-
-## O que trago para os projetos
-
-- **Backend e integração:** APIs, microsserviços, mensageria e contratos que conectam aplicações e regras de negócio.
-- **Evolução de arquitetura:** organização por domínio, separação de responsabilidades, DTOs, mappers e validações com Jakarta Validation.
-- **Modernização de sistemas legados:** análise de regras e dependências, identificação de riscos e planejamento de migrações incrementais.
-- **Qualidade e operação:** testes automatizados, revisão de código, observabilidade, troubleshooting e análise de logs.
-- **Entrega de software:** Docker, CI/CD e pipelines no Azure DevOps, com organização das entregas por ambiente.
-- **Desenvolvimento apoiado por IA:** agentes como apoio à especificação, implementação, testes e revisão, com validação dos resultados.
-
-## Tecnologias e práticas
-
-| Área | Stack |
+| Frente | Tecnologias e práticas |
 | :--- | :--- |
 | Backend | Java 17+ · Spring Boot · Quarkus · Node.js |
-| Frontend | Angular · TypeScript · JavaScript |
-| Mobile | Ionic · Capacitor |
-| Arquitetura | APIs REST · Microsserviços · Sistemas distribuídos · Arquitetura orientada a eventos · Mensageria |
+| Frontend e mobile | Angular · TypeScript · JavaScript · Ionic · Capacitor |
+| Arquitetura | APIs REST · Microsserviços · Sistemas distribuídos · Mensageria |
 | Persistência | SQL · PostgreSQL · MongoDB |
-| Qualidade | Testes automatizados · JUnit · Mockito · Clean Code · SOLID |
+| Qualidade | JUnit · Mockito · Clean Code · SOLID · Observabilidade |
 | Entrega | Git · Docker · Azure · Azure DevOps · CI/CD |
-| Colaboração | Análise de requisitos · Revisão de código · Scrum · Kanban |
 
-## Projetos pessoais
+### Além do trabalho
 
-Nos projetos pessoais, também trabalho com **React e Next.js**, integração entre frontend e backend, autenticação e sessões, além de **Drizzle ORM e SQLite em aplicações Capacitor**. Essas iniciativas complementam minha experiência profissional e dão espaço para explorar novas ferramentas e formas de desenvolver software.
+Nos projetos pessoais, exploro **React e Next.js**, autenticação e sessões, além de **Drizzle ORM e SQLite em aplicações Capacitor**. Também uso **agentes de IA no desenvolvimento**, com atenção à especificação, aos testes e à revisão dos resultados.
 
-## Formação
+<details>
+<summary><strong>Minha trajetória profissional e formação</strong></summary>
 
-**Análise e Desenvolvimento de Sistemas** — UNIP, concluído em 2020.
+<br />
+
+**DB Server · Engenheiro de Software**  
+Junho de 2025 — atual
+
+Desenvolvimento e evolução de microsserviços com Java, Spring Boot e Quarkus; APIs REST e integrações entre sistemas. Trabalho com produto, QA e design, aplicando testes automatizados, CI/CD e boas práticas de engenharia.
+
+**ITSS Tecnologia · Engenheiro de Software**  
+Janeiro de 2020 — junho de 2025
+
+Desenvolvimento full stack com Angular, TypeScript, Java/Spring Boot e Node.js. Integrações com ERPs e serviços externos, manutenção e evolução de aplicações, análise de logs e investigação de incidentes em produção.
+
+Comecei na **ITSS em setembro de 2019**, como estagiário de desenvolvimento, trabalhando com aplicações desktop, web e mobile.
+
+**Análise e Desenvolvimento de Sistemas · UNIP**  
+Concluído em 2020.
+
+</details>
 
 ---
 
-Para conversar sobre **Java, arquitetura, integração de sistemas e desenvolvimento full stack**, encontre-me no [LinkedIn](https://www.linkedin.com/in/marcio-lima-araujo/).
+Vamos conversar sobre **Java, arquitetura, integrações e desenvolvimento full stack**? Me encontre no [LinkedIn](https://www.linkedin.com/in/marcio-lima-araujo/).
