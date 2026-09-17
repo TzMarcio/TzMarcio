@@ -5,77 +5,65 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/marcio-lima-araujo/">LinkedIn</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/TzMarcio?tab=repositories">Repositórios públicos</a>
+  <a href="https://github.com/TzMarcio?tab=repositories">Código público</a>
 </p>
 
-## Engenharia de software, da regra de negócio à entrega
+## Engenharia de software para sistemas que precisam evoluir
 
-Sou **Márcio Lima Araujo**, **engenheiro de software com atuação full stack** e mais de seis anos de experiência. Trabalho com **Java, Spring Boot e Quarkus**, APIs REST e microsserviços, além de aplicações **web e mobile** com **Angular, React, Next.js, TypeScript e Ionic**.
+Sou **Márcio Lima Araujo**, **engenheiro de software com mais de seis anos de experiência** em aplicações web, mobile e backend. Minha atuação principal está em **Java, Spring Boot e Quarkus**, APIs REST, microsserviços e integração entre sistemas.
 
-Minha experiência passa pela evolução de sistemas corporativos, integração com ERPs, sustentação em produção e modernização de aplicações legadas. Gosto de transformar regras de negócio em soluções com responsabilidades claras, contratos bem definidos e testes que ajudam a manter o sistema confiável.
+Tenho experiência full stack com **Angular, TypeScript e Node.js**, além de desenvolvimento mobile com **Ionic**. Trabalho no desenvolvimento e na manutenção de sistemas corporativos, combinando regras de negócio, qualidade de código e atenção ao comportamento das aplicações em produção.
 
-### Competências em prática
+**A maior parte do meu trabalho está em projetos de empresas e repositórios privados.** Este perfil reúne minha trajetória, as competências que aplico nesses contextos e as frentes que venho desenvolvendo.
 
-- **Backend e arquitetura:** APIs REST, microsserviços, modelagem de domínio, DTOs, mappers e validações com Jakarta Validation.
-- **Modernização de sistemas:** análise de dependências e regras de negócio, separação de responsabilidades e planejamento de migrações incrementais.
-- **Web e mobile:** interfaces com Angular, React e Next.js; aplicações com Ionic e Capacitor; integração de Drizzle ORM com SQLite.
-- **Integração e entrega:** autenticação e sessões, integração com ERPs, Docker e pipelines de CI/CD no Azure DevOps.
-- **Qualidade e operação:** testes automatizados, revisão de código, documentação técnica, investigação de incidentes e análise de logs.
-- **IA no desenvolvimento:** uso de agentes para apoiar especificação, implementação, testes e revisão, com atenção à validação dos resultados.
+## Experiência profissional
 
-### Tecnologias
+### DB Server · Engenheiro de Software
+**Junho de 2025 — atual**
 
-| Área | Tecnologias utilizadas em meus projetos |
+- Desenvolvimento e evolução de microsserviços com Java, Spring Boot e Quarkus, com foco em escalabilidade, resiliência e performance.
+- Implementação de APIs REST e integrações entre sistemas distribuídos.
+- Análise de requisitos e definição de soluções com produto, QA e design, aplicando testes automatizados, CI/CD e Clean Code.
+
+### ITSS Tecnologia · Engenheiro de Software
+**Janeiro de 2020 — junho de 2025**
+
+- Desenvolvimento e manutenção de aplicações full stack com Angular e TypeScript, Java/Spring Boot e Node.js.
+- Integrações com ERPs e serviços externos, revisão de código e evolução das aplicações.
+- Investigação de incidentes em produção, análise de falhas e logs, correções e otimizações de performance.
+
+Minha trajetória começou na **ITSS, em setembro de 2019**, como estagiário de desenvolvimento, trabalhando com aplicações desktop, web e mobile.
+
+## O que trago para os projetos
+
+- **Backend e integração:** APIs, microsserviços, mensageria e contratos que conectam aplicações e regras de negócio.
+- **Evolução de arquitetura:** organização por domínio, separação de responsabilidades, DTOs, mappers e validações com Jakarta Validation.
+- **Modernização de sistemas legados:** análise de regras e dependências, identificação de riscos e planejamento de migrações incrementais.
+- **Qualidade e operação:** testes automatizados, revisão de código, observabilidade, troubleshooting e análise de logs.
+- **Entrega de software:** Docker, CI/CD e pipelines no Azure DevOps, com organização das entregas por ambiente.
+- **Desenvolvimento apoiado por IA:** agentes como apoio à especificação, implementação, testes e revisão, com validação dos resultados.
+
+## Tecnologias e práticas
+
+| Área | Stack |
 | :--- | :--- |
-| Backend | Java · Spring Boot · Quarkus · Spring Data JPA · Jakarta Validation |
-| Frontend | TypeScript · JavaScript · Angular · React · Next.js |
-| Mobile | Ionic · Capacitor · Capacitor Community SQLite |
-| Dados | SQL · PostgreSQL · MongoDB · SQLite · Drizzle ORM · Flyway |
-| Entrega e ferramentas | Docker · Azure DevOps · CI/CD · Git · Maven · npm |
-| Qualidade | JUnit · Mockito · Testes de integração · Clean Code · SOLID |
+| Backend | Java 17+ · Spring Boot · Quarkus · Node.js |
+| Frontend | Angular · TypeScript · JavaScript |
+| Mobile | Ionic · Capacitor |
+| Arquitetura | APIs REST · Microsserviços · Sistemas distribuídos · Arquitetura orientada a eventos · Mensageria |
+| Persistência | SQL · PostgreSQL · MongoDB |
+| Qualidade | Testes automatizados · JUnit · Mockito · Clean Code · SOLID |
+| Entrega | Git · Docker · Azure · Azure DevOps · CI/CD |
+| Colaboração | Análise de requisitos · Revisão de código · Scrum · Kanban |
 
-Também tenho vivência com **Azure, Databricks e integração com pipelines de dados**, conectando aplicações e processamento de informações.
+## Projetos pessoais
 
-## Frentes de trabalho
+Nos projetos pessoais, também trabalho com **React e Next.js**, integração entre frontend e backend, autenticação e sessões, além de **Drizzle ORM e SQLite em aplicações Capacitor**. Essas iniciativas complementam minha experiência profissional e dão espaço para explorar novas ferramentas e formas de desenvolver software.
 
-Além dos repositórios públicos, desenvolvo e estudo soluções em diferentes etapas do ciclo de software:
+## Formação
 
-| Frente | Foco da atuação |
-| :--- | :--- |
-| Evolução de sistemas Java | Modernização com Quarkus, contratos de API, DTOs e organização por domínio. |
-| Aplicações integradas | Comunicação entre frontend e backend, autenticação, sessões e persistência em PostgreSQL. |
-| Sistemas legados | Mapeamento de regras, riscos e dependências para separar módulos e planejar a evolução. |
-| Entrega contínua | Pipelines, imagens Docker, versionamento e organização de entregas por ambiente. |
-| Desenvolvimento com IA | Especificações, decomposição de funcionalidades e agentes com validação e revisão. |
-
-## Trajetória
-
-- **DB Server:** engenharia de software, evolução de APIs e microsserviços, arquitetura e qualidade de sistemas.
-- **ITSS Tecnologia:** desenvolvimento e manutenção de aplicações web, mobile e backend, integrações com ERPs e sustentação em produção.
-- **Formação:** Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP).
-
-## Projetos em destaque
-
-### [capacitor-drizzle-driver](https://github.com/TzMarcio/capacitor-drizzle-driver)
-
-**Uma ponte entre Drizzle ORM e SQLite no Capacitor.**
-
-Driver em TypeScript que permite utilizar consultas tipadas e schemas do Drizzle em aplicações Capacitor. A implementação inclui gerenciamento de transações, migrações e acompanhamento da disponibilidade do banco.
-
-`TypeScript` `Drizzle ORM` `SQLite` `Capacitor`
-
-**O que demonstra:** criação de uma biblioteca reutilizável, integração entre ferramentas e cuidado com a persistência de dados.
-
-### [Gerenciamento de Projetos](https://github.com/TzMarcio/gerenciamento-projetos)
-
-**Regras de negócio traduzidas em um sistema de gestão.**
-
-Aplicação para cadastro e gestão de projetos, pessoas e membros, com controle de status e riscos. Organizada em camadas, combina APIs REST, persistência em PostgreSQL, migrações com Flyway e testes com JUnit e Mockito.
-
-`Java` `Spring Boot` `PostgreSQL` `Flyway` `JUnit` `Mockito`
-
-**O que demonstra:** desenvolvimento backend, modelagem de domínio e validação de regras de negócio.
+**Análise e Desenvolvimento de Sistemas** — UNIP, concluído em 2020.
 
 ---
 
-**Vamos conversar sobre desenvolvimento de software?** Encontre-me no [LinkedIn](https://www.linkedin.com/in/marcio-lima-araujo/).
+Para conversar sobre **Java, arquitetura, integração de sistemas e desenvolvimento full stack**, encontre-me no [LinkedIn](https://www.linkedin.com/in/marcio-lima-araujo/).
