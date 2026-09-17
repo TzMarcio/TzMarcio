@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Márcio Lima — Engenheiro de Software. APIs, sistemas corporativos, web e mobile." width="100%" />
+  <img src="./assets/software-banner.svg" alt="Márcio Lima — Engenheiro de Software. APIs, sistemas corporativos, web e mobile." width="100%" />
 </p>
 
 <p align="center">
